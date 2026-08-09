@@ -7,6 +7,10 @@
     "suman131085@gmail.com": {
       "status": "pending",
       "requestedAt": 1786285454235
+    },
+    "ayushatoz48@gmail.com": {
+      "status": "approved",
+      "expiresAt": null
     }
   },
   "tempKeys": {}
