@@ -18,5 +18,12 @@
       "expiresAt": 1786340142470
     }
   },
-  "magicLinks": {}
+  "magicLinks": {},
+  "phoneUsers": {
+    "9506468440": {
+      "name": "Suman",
+      "expiresAt": 1786903841515,
+      "status": "approved"
+    }
+  }
 }
