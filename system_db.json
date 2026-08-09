@@ -3,6 +3,10 @@
     "ayushi848116@gmail.com": {
       "status": "approved",
       "expiresAt": null
+    },
+    "": {
+      "status": "approved",
+      "expiresAt": 1786284672665
     }
   },
   "tempKeys": {}
