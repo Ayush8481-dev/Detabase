@@ -13,5 +13,10 @@
       "expiresAt": null
     }
   },
-  "tempKeys": {}
+  "tempKeys": {},
+  "magicLinks": {
+    "INXSTIox2bnVlWVcoYR7kW8iHaFH2FVFwqgKwL1UEjfO4sMnIGPViNWMrDk6pqxf9SffGlnY1NNl9pQn0TLrC0tbRDeqnkzETZ3F": {
+      "expiresAt": 1786373957033
+    }
+  }
 }
