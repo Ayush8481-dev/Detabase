@@ -14,7 +14,11 @@
     }
   },
   "tempKeys": {},
-  "magicLinks": {},
+  "magicLinks": {
+    "UXzOVVP2BwgVflDckxzqqFJhmkufjpTeUNJFCk9epiqvkl2IJalXCAW0nmvYvHrk2s3ipsHQOMSCADMxvK7kHa5RJtS9JOtGpEWq": {
+      "expiresAt": 1787363061680
+    }
+  },
   "phoneUsers": {
     "9506468440": {
       "name": "Suman",
