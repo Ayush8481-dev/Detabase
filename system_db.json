@@ -17,17 +17,11 @@
       "requestedAt": 1787158036621
     },
     "spy9451771630@gmail.com": {
-      "status": "pending",
-      "requestedAt": 1787947841312
+      "status": "approved",
+      "expiresAt": null
     }
   },
   "tempKeys": {},
   "magicLinks": {},
-  "phoneUsers": {
-    "9506468440": {
-      "name": "Suman",
-      "expiresAt": 1786903841515,
-      "status": "approved"
-    }
-  }
+  "phoneUsers": {}
 }
