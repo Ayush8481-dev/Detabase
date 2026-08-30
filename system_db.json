@@ -21,7 +21,11 @@
       "expiresAt": null
     }
   },
-  "tempKeys": {},
+  "tempKeys": {
+    "Hell": {
+      "expiresAt": 1788085063698
+    }
+  },
   "magicLinks": {},
   "phoneUsers": {}
 }
